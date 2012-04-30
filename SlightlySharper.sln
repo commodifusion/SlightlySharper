@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlightlySharper", "SlightlySharper.csproj", "{A7CF788A-1AB2-4E69-B307-603516C8E027}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7CF788A-1AB2-4E69-B307-603516C8E027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CF788A-1AB2-4E69-B307-603516C8E027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CF788A-1AB2-4E69-B307-603516C8E027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CF788A-1AB2-4E69-B307-603516C8E027}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = SlightlySharper.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $2
+		$2.inheritsSet = null
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.AlignEmbeddedIfStatements = False
+		$3.AnonymousMethodBraceStyle = NextLine
+		$3.PropertyBraceStyle = NextLine
+		$3.PropertyGetBraceStyle = NextLine
+		$3.PropertySetBraceStyle = NextLine
+		$3.StatementBraceStyle = NextLine
+		$3.IfElseBraceForcement = AddBraces
+		$3.ForBraceForcement = AddBraces
+		$3.WhileBraceForcement = AddBraces
+		$3.UsingBraceForcement = AddBraces
+		$3.FixedBraceForcement = AddBraces
+		$3.PlaceElseOnNewLine = True
+		$3.PlaceCatchOnNewLine = True
+		$3.PlaceFinallyOnNewLine = True
+		$3.PlaceWhileOnNewLine = True
+		$3.BeforeMethodDeclarationParentheses = False
+		$3.BeforeMethodCallParentheses = False
+		$3.BeforeConstructorDeclarationParentheses = False
+		$3.BeforeIndexerDeclarationBracket = False
+		$3.BeforeDelegateDeclarationParentheses = False
+		$3.AfterDelegateDeclarationParameterComma = True
+		$3.NewParentheses = False
+		$3.SpacesBeforeBrackets = False
+		$3.SpacesAfterTypecast = True
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/x-csharp
+		$3.scope = text/x-csharp
+	EndGlobalSection
+EndGlobal

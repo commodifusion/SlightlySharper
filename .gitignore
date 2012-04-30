@@ -1,6 +1,4 @@
-# Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
-bin
-obj
-
-# mstest test results
-TestResults
+/CommodiFusion.SlightlySharper_2.8.1.mpack
+/CommodiFusion.SlightlySharper.dll
+/SlightlySharper.pidb
+/SlightlySharper.userprefs
