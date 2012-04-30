@@ -37,6 +37,7 @@
     <None Include="README.md" />
     <None Include="INSTALL.txt" />
     <None Include="CommodiFusion.SlightlySharper.addin.xml" />
+    <None Include="addin-project.xml" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="KeyBindingSchemeIDEA.xml" />
