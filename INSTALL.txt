@@ -10,6 +10,6 @@ If you want to build and install SlightlySharper locally, these are the steps:
 
 2. Build an .mpack file for the add-in by running:
 
-$ mdtool setup pack CommodiFusion.Sharpener.addin.xml
+$ mdtool setup pack CommodiFusion.SlightlySharper.addin.xml
 
 3. In MonoDevelop, 'Tools', 'Add-in manager', 'Install from file' and select the .mpack from step 2.
