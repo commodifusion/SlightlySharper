@@ -1,6 +1,6 @@
 <AddinProject appVersion="2.8">
 	<Project platforms="Mac Linux Win32">
-		<AddinFile>CommodiFusion.SlightlySharper.dll</AddinFile>
+		<AddinFile>CommodiFusion.SlightlySharper.addin.xml</AddinFile>
 		<BuildFile>SlightlySharper.sln</BuildFile>
 		<BuildConfiguration>Release</BuildConfiguration>
 	</Project>
