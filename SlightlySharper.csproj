@@ -43,13 +43,11 @@
     <EmbeddedResource Include="KeyBindingSchemeIDEA.xml" />
   </ItemGroup>
   <ItemGroup>
-    <Reference Include="MonoDevelop.Core, Version=2.6.0.0, Culture=neutral">
-      <Private>False</Private>
-      <Package>monodevelop</Package>
+    <Reference Include="MonoDevelop.Core">
+      <HintPath>..\..\..\..\..\opt\mono-3.0.4\lib\monodevelop\bin\MonoDevelop.Core.dll</HintPath>
     </Reference>
-    <Reference Include="MonoDevelop.Ide, Version=2.6.0.0, Culture=neutral">
-      <Private>False</Private>
-      <Package>monodevelop</Package>
+    <Reference Include="MonoDevelop.Ide">
+      <HintPath>..\..\..\..\..\opt\mono-3.0.4\lib\monodevelop\bin\MonoDevelop.Ide.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>
